@@ -1,7 +1,1 @@
-const images = [
-    "IMG_1030.jpg",
-    "IMG_2144.jpg",
-    "IMG_2851.jpg",
-    "IMG_3228.jpg",
-    "IMG_3475.jpg"
-]
+const images = ['IMG_3252.jpg', 'IMG_3481.jpg', 'IMG_3122.jpg', 'JCP_8041.jpg', 'JCP_7561.jpg', 'IMG_2851.jpg', 'JCP_6492.jpg', 'IMG_1030.jpg', 'IMG_3355.jpg', 'JCP_6533.jpg', 'JCP_8046.jpg', 'JCP_6489.jpg', 'IMG_3167.jpg', 'IMG_3364.jpg', 'JCP_6463.jpg', 'IMG_3149.jpg', 'JCP_6510.jpg', 'IMG_2888.jpg', 'IMG_3228.jpg', 'IMG_3188.jpg', 'JCP_6466.jpg', 'JCP_6574.jpg', 'IMG_3475.jpg', 'JCP_6589.jpg', 'IMG_3462.jpg', 'JCP_6572.jpg'];

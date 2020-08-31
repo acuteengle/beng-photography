@@ -1,15 +1,1 @@
-const images = [
-    "IMG_2929.jpg",
-    "IMG_3229.jpg",
-    "IMG_3254.jpg",
-    "IMG_3340.jpg",
-    "IMG_3454.jpg",
-    "IMG_3510.jpg",
-    "IMG_3545.jpg",
-    "IMG_4078.jpg",
-    "JCP_7561.jpg",
-    "JCP_7569.jpg",
-    "JCP_7585.jpg",
-    "JCP_7586.jpg",
-    "IMG_2144.jpg"
-];
+const images = ['JCP_7716.jpg', 'JCP_8035.jpg', 'IMG_3333.jpg', 'IMG_3454.jpg', 'IMG_3520.jpg', 'IMG_2167.jpg', 'JCP_7923.jpg', 'JCP_7738.jpg', 'IMG_3043.jpg', 'JCP_8032.jpg', 'IMG_3254.jpg', 'IMG_3256.jpg', 'IMG_2148.jpg', 'JCP_8056.jpg', 'IMG_3146.jpg', 'JCP_7826.jpg', 'JCP_8080.jpg', 'IMG_3594.jpg', 'JCP_7776.jpg', 'IMG_3233.jpg', 'IMG_3409.jpg', 'IMG_3232.jpg', 'JCP_7763.jpg', 'JCP_7788.jpg', 'JCP_8050.jpg', 'JCP_7834.jpg', 'JCP_7821.jpg', 'JCP_8858.jpg', 'IMG_3579.jpg', 'IMG_3545.jpg', 'IMG_3547.jpg', 'IMG_3340.jpg', 'JCP_8077.jpg', 'IMG_3417.jpg', 'JCP_7569.jpg', 'JCP_8060.jpg', 'IMG_3411.jpg', 'IMG_2929.jpg', 'JCP_7828.jpg', 'JCP_7586.jpg', 'JCP_7792.jpg', 'JCP_8072.jpg', 'IMG_3348.jpg', 'JCP_7585.jpg', 'IMG_2137.jpg', 'IMG_3229.jpg', 'IMG_2144.jpg', 'JCP_7871.jpg', 'IMG_4078.jpg', 'IMG_3103.jpg', 'IMG_3075.jpg', 'JCP_7849.jpg', 'IMG_2975.jpg', 'JCP_8038.jpg', 'IMG_3510.jpg']

@@ -26,6 +26,13 @@ a i:hover {
 }
 
 
+/* Navbar */
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+
 /* Footer */
 
 footer {
