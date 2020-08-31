@@ -3,8 +3,26 @@ body {
     font-weight: 300;
 }
 
-.everything {
+.main-content {
     display: none;
+}
+
+.title {
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 10px 0px;
+}
+
+#gallery {
+    margin: 20px 0px;
+}
+
+a i {
+    color: #5C5C5C;
+}
+
+a i:hover {
+    color: #B9B9B9;
 }
 
 
@@ -59,11 +77,15 @@ footer span {
 }
 
 #portraits {
-    background-image: url("./images/portraits.jpg");
+    background-image: url("./section-images/portraits.jpg");
 }
 
 #nature {
-    background-image: url("./images/nature.jpg");
+    background-image: url("./section-images/nature.jpg");
+}
+
+#travel {
+    background-image: url("./section-images/travel.jpg");
 }
 
 /* Portraits */

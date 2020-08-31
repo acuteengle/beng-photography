@@ -44,22 +44,3 @@ const images = [
     "JCP_9478.jpg",
     "JCP_9559.jpg"
 ];
-
-
-function shuffle(array) {
-    array.sort(() => Math.random() - 0.5);
-}
-
-$(document).ready(() => {
-    shuffle(images);
-    for (const name of images) {
-        let element = document.createElement("IMG");
-        let url = "./images/" + name;
-        element.src = url;
-        element.alt = name;
-        element.setAttribute("data-image", url);
-        $("#gallery").append(element);
-    }
-    $("#gallery").unitegallery();
-    $(".everything").fadeIn(3000);
-});

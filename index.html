@@ -38,11 +38,25 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-          <a class="nav-item nav-link" href="./contact/contact.html">Contact</a>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">Home</a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="./contact/contact.html">Contact</a></li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Gallery
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="./portraits/portraits.html">Portraits</a>
+                <a class="dropdown-item" href="./travel/travel.html">Travel</a>
+                <a class="dropdown-item" href="./nature/nature.html">Nature</a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
-    <section class="everything">
+    <section class="main-content">
       <div class="container">
         <div class="gallery-section" id="portraits">
           <button
@@ -51,6 +65,15 @@
             onclick="location.href='./portraits/portraits.html'"
           >
             portraits
+          </button>
+        </div>
+        <div class="gallery-section" id="travel">
+          <button
+            type="button"
+            class="btn btn-outline-light"
+            onclick="location.href='./travel/travel.html'"
+          >
+            travel
           </button>
         </div>
         <div class="gallery-section" id="nature">
@@ -98,6 +121,6 @@
       type="text/javascript"
       src="./unitegallery/themes/tiles/ug-theme-tiles.js"
     ></script>
-    <script src="./script.js"></script>
+    <script src="./home.js"></script>
   </body>
 </html>
